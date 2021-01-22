@@ -1,8 +1,12 @@
 {
-  "name": "WinterCam2021",
+  "name": "WinterCamp2021",
   "version": "1.0.0",
   "description": "the mod for winter camp in 2021",
-  "dependencies": {
-    "emptymod": "github:NPLPackages/Mod-Empty"
-  }
+  "dependencies": [
+    {
+      "name": "Mod-Empty",
+      "type": "github",
+      "source": "https://codeload.github.com/NPLPackages/Mod-Empty/zip/main"
+    }
+  ]
 }
