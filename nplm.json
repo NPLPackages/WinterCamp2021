@@ -7,6 +7,16 @@
       "name": "Mod-Empty",
       "type": "github",
       "source": "https://codeload.github.com/NPLPackages/Mod-Empty/zip/main"
+    },
+    {
+      "name": "HelloWorld",
+      "type": "github",
+      "source": "https://codeload.github.com/tatfook/HelloWorld/zip/master"
+    },
+    {
+      "name": "ModelVoxelizer",
+      "type": "github",
+      "source": "https://codeload.github.com/NPLPackages/ModelVoxelizer/zip/master"
     }
   ]
 }
